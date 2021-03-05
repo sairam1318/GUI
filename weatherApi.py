@@ -1,3 +1,4 @@
+"""GUI for weather report api """
 from tkinter import *
 import json
 import requests	
